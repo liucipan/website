@@ -1,6 +1,6 @@
 ---
-title: "Artworks"
-description: "A collection of artworks"
+title: "My work"
+description: ""
 icon: "flag"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Artwork1
+title: Drawings
+layout: Drawings
 ---
 
 ## Text

@@ -35,3 +35,8 @@
 		opacity: 1;
 		margin: 4rem 0 0 0;
 	}
+	.grid-container {
+		display: grid;
+		grid-template-columns: 50px 50px 50px 50px;
+		grid-template-rows: auto;
+	}

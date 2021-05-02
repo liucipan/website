@@ -10,6 +10,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+	.grid-container {
+		display: grid;
+		grid-template-columns: 50px 50px 50px 50px;
+		grid-template-rows: auto;
+	}
 /* BG */
 
 	#bg {
