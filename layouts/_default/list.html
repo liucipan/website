@@ -10,10 +10,17 @@
                     <div class="logo">
                         <a href="/">
                             <span class="icon">
-                                <img src="{{ .Params.logo }}">
+                                <img src="{{ "/images/logo.png" | absURL }}">
                             </span>
                         </a>
                     </div>
+                    {{ if eq .IsHome false }}
+                        <a href="/">
+                            <span class="icon">
+                                Go Home (just for now)
+                            </span>
+                        </a> 
+                    {{end}}
                     <div class="content">
                         <div class="inner">
                             <h1>{{ .Title | default "Title" }}</h1>
