@@ -1,5 +1,5 @@
 ---
-title: Media art
+title: Media art 
 ---
 
 ## RESONANCE
@@ -31,9 +31,9 @@ design, technical implementation of the system, 3D modelling of an avatar, sound
 
 Set design and videography: Liucija Paniuskyte.
 
-Aalborg University, Aalborg, DK
-Art and Technology
-Semester 5
+Aalborg University, Aalborg, DK\
+Art and Technology\
+Semester 5\
 Fall 2019
 
 {{< youtube BRVRxAmNdl8 >}}
@@ -45,13 +45,13 @@ Fall 2019
 Greenscape is a Mixed Reality sound installation investigating the awareness of noise pollution within city parks. The installation allows the audience to walk
 around and explore the sounds of Karolinelund (a park in Aalborg, DK) in a mixed-reality space. My responsibilities in this project were concept design and set design.
 
-Technical system design and implementation:  Maros Pekarik
-Concept design and set design: Liucija Paniuskyte
+Technical system design and implementation:  Maros Pekarik\
+Concept design and set design: Liucija Paniuskyte\
 Video: Dominik Galleya
 
-Aalborg University, Aalborg, Denmark
-Art and Technology
-Semester 4
+Aalborg University, Aalborg, DK\
+Art and Technology\
+Semester 4\
 Spring 2019
 
 {{< youtube KtPhhbtaTwU >}}
@@ -62,12 +62,11 @@ Spring 2019
 
 IN-PULSE is a Mixed Reality performance powered by the heartbeat of an audience member shown through a dynamic projection mapping on the performer's body in real-time. The performer's task throughout the performance is to find out who from the audience is wearing the heartbeat sensor.
 
-Performer: Valeria Rizzo
-Technical system design and implementation:  Maros Pekarik
+Performer: Valeria Rizzo\
+Technical system design and implementation:  Maros Pekarik\
 Concept design, sound and visuals: Liucija Paniuskyte
 
-Aalborg University\
-Aalborg, Denmark\
+Aalborg University, Aalborg, DK\
 Art and Technology\
 Semester 3\
 Fall 2018

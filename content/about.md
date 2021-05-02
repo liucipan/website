@@ -1,7 +1,7 @@
 ---
 title: About me
 ---
-I am a multimedia artist from Lithuania interested in and involved with visual arts, interactive installations and performances. I have recently graduated with a Bachelor's degree in Art and Technology with a profile in concept design, experience design, performance, and interactive media art from Aalborg University, Denmark. Most of my work is analogue and digital illustrations and paintings but for the past three years I have been engaging myself with media art - creating performances, interactive sound and visual installations. 
+I am a multimedia artist from Lithuania involved with visual arts, interactive installations and performances. I have recently graduated with a Bachelor's degree in Art and Technology with a profile in concept design, experience design, performance, and interactive media art from Aalborg University, Denmark. Most of my work is analogue and digital illustrations and paintings but for the past three years I have been engaging myself with media art - creating performances, interactive sound and visual installations. 
 
 <!-- ## Table of contents
 

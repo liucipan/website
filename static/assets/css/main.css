@@ -78,8 +78,13 @@ input, select, textarea {
 
 .grid-container {
 	display: grid;
-	grid-template-columns: 50px 50px 50px 50px;
-	grid-template-rows: auto;
+	grid-template-columns: 180px 180px 180px;
+	grid-template-rows: 80px auto 80px; 
+	column-gap: 10px;
+	row-gap: 15px;
+}
+.grid-item > img {
+	max-width: 100%;
 }
 
 /* Basic */
@@ -1563,7 +1568,7 @@ input, select, textarea {
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 40rem;
+			width: 60rem;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
