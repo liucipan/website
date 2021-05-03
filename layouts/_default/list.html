@@ -50,8 +50,6 @@
 
             <!-- Main -->
                 <div id="main">
-                    <!-- {{ $folder := printf "/static/images/drawings"}} -->
-                    <!-- {{ $files := readDir $folder }} -->
                     {{ range .Pages }}
                         {{if .Title }}
                             
@@ -59,12 +57,6 @@
                             <article id="{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">
                                 <h2 class="major">{{ .Title }}</h2>
                                 <div class="grid-container">
-                                    <!-- {{range $files}} -->
-                                        <!-- <div class="grid-item"> -->
-                                            <!-- <img class="" src="/images/drawings/{{.Name}}" alt=""/> -->
-                                        <!-- </div> -->
-                                    <!-- {{end}} -->
-                              
                                 </div>
                             </article>
                             {{else}}
